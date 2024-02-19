@@ -5,5 +5,6 @@ Andrey
 Mariya
 Sergey
 Vlad
-MAX
+MAX teacher
+
 
