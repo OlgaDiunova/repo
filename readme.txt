@@ -1,10 +1,7 @@
-Olga
 Andrey
 Artyom
-Andrey
 Mariya
+MAX teacher
+Olga
 Sergey
 Vlad
-MAX teacher
-
-
